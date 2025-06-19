@@ -13,7 +13,7 @@ title                    : "Riccardo Rubei, PhD"
 title_separator          : "-"
 name                     : &name "Riccardo Rubei"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://riccardorubei.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "riccardoRubei/riccardorubei.github.io"
 
