@@ -11,7 +11,6 @@ I'm a postdoctoral researcher at the University of L’Aquila (Italy). I earned 
 My research interest is related to software engineering, recommender systems and several aspects of MDE. 
 Furthermore I'm active in the field of sustainability and green software engineering.
 
- Aggiungere qualche altra cosina qui
 
 ## Research Interest
  - Software Engineering
