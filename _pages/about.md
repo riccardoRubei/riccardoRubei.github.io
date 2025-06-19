@@ -1,13 +1,30 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I'm a postdoctoral researcher at the University of L’Aquila (Italy). I earned my Ph.D. in 2022 from the University of L’Aquila under the supervision of Prof. Davide di Ruscio. 
+My research interest is related to software engineering, recommender systems and several aspects of MDE. 
+Furthermore I'm active in the field of sustainability and green software engineering.
+
+ Aggiungere qualche altra cosina qui
+
+## Research Interest
+ - Software Engineering
+ - Recommender Systems
+ - Green Computing
+ - Model-Driven Engineering
+
+<!--He organized the workshop in STAF 2024 entitled ”Large Language Models for Model-Driven Engineering” and “Foundations and Practice of Visual Modeling” in Models 2024. 
+ He served as a program committee of several software engineering conferences including MSR, ICSE Artifact Evaluation, Models, and as a reviewer for several journals, such as Software and Systems Modeling (SoSyM), JSS, and Information Processing and Management (IPM) to name a few. 
+--!>
+
+
+<!--Vediamo che succede se scrivo qui!!!
 
 A data-driven personal website
 ======
@@ -47,3 +64,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
