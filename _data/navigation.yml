@@ -15,7 +15,7 @@ main:
     url: /teaching/    
 
   - title: "Professional Service"
-    url: /service/
+    url: /services/
 
 # - title: "Portfolio"
 #    url: /portfolio/
@@ -26,5 +26,5 @@ main:
 #  - title: "CV"
 #    url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/
