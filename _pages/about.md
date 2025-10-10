@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoctoral researcher at the University of L’Aquila (Italy). I earned my Ph.D. in 2022 from the University of L’Aquila under the supervision of Prof. Davide di Ruscio. 
+I'm a postdoctoral researcher at Mälardalen University (Sweden). I earned my Ph.D. in 2022 from the University of L’Aquila under the supervision of Prof. Davide di Ruscio. 
 My research interest is related to software engineering, recommender systems and several aspects of MDE. 
 Furthermore I'm active in the field of sustainability and green software engineering.
 
@@ -18,12 +18,6 @@ Furthermore I'm active in the field of sustainability and green software enginee
  - Green Computing
  - Model-Driven Engineering
 
-<!--He organized the workshop in STAF 2024 entitled ”Large Language Models for Model-Driven Engineering” and “Foundations and Practice of Visual Modeling” in Models 2024. 
- He served as a program committee of several software engineering conferences including MSR, ICSE Artifact Evaluation, Models, and as a reviewer for several journals, such as Software and Systems Modeling (SoSyM), JSS, and Information Processing and Management (IPM) to name a few. 
---!>
-
-
-<!--Vediamo che succede se scrivo qui!!!
 
 A data-driven personal website
 ======
